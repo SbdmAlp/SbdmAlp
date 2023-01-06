@@ -1,4 +1,4 @@
-### 我爱你，徐妍 👋
+### 你是傻瓜，笨蛋，是我最爱吃的肉 👋
 
 <!--
 **SbdmAlp/SbdmAlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
