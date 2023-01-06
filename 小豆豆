@@ -1,0 +1,7 @@
+<div id="jnkc">
+
+</div>
+
+<script>setInterval("jnkc.innerHTML=new Date().toLocaleString()+' 星期'+'日一二三四五六'.charAt(new Date().getDay());",1000);
+
+</script>
